@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my second brain: [arai.dev](https://arai.dev)
+
 <!--
 **sonu27/sonu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
