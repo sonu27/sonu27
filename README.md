@@ -19,22 +19,3 @@ When I'm not writing code, I'm usually out with my camera or writing notes in my
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-
-## Projects
-
-| | |
-|---|---|
-| [raitech.co](https://raitech.co) | Software consultancy -- cloud platforms, distributed systems & engineering enablement |
-| [amarjeet.photos](https://amarjeet.photos) | My photography portfolio |
-| [sonurai.com](https://sonurai.com) | Daily Bing Wallpapers |
-| [arai.dev](https://arai.dev) | Public second brain -- notes on engineering, AI, consulting & more |
-| [voicebardictate](https://github.com/sonu27/voicebardictate) | Native macOS menu bar voice-to-text app using OpenAI |
-| [lightroom-site-generator](https://github.com/sonu27/lightroom-site-generator) | Generates a photography site from Lightroom exports |
-
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjeetrai)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sonu27)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/amarjeet.photos)
-[![Website](https://img.shields.io/badge/amarjeet.dev-000000?style=flat&logo=safari&logoColor=white)](https://amarjeet.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@raitech.co)
